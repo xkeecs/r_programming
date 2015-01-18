@@ -1,4 +1,4 @@
-# r_programming
+# R programming
 Coursera R programming project - JHU
 
 Part 1
